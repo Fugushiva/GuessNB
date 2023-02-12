@@ -1,0 +1,12 @@
+body {
+  background-color: aqua;
+  text-align: center;
+}
+
+h3 {
+  text-align: left;
+}
+
+input:focus {
+  background-color: lightgrey;
+}
