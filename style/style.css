@@ -10,3 +10,12 @@ h3 {
 input:focus {
   background-color: lightgrey;
 }
+
+#prenomGet {
+  visibility: hidden;
+}
+
+.boutton {
+  margin-right: 180px;
+  margin-top: 50px;
+}
